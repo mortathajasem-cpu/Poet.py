@@ -2,8 +2,8 @@ import telebot
 from telebot import types
 
 # ---------------------------------------------------------
-# التوكين المصحح (مع حرف o صغير)
-TOKEN = "8415619653:AAE2Jz4I5WHMSoORGS1eG63MGvAj53UgISY"
+# التوكين الجديد (تم التحديث)
+TOKEN = "8415619653:AAFKPmO2b3aXX9Ge1VONhGcODdEfj7Dw5wM"
 # ---------------------------------------------------------
 
 bot = telebot.TeleBot(TOKEN)
